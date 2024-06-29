@@ -5,7 +5,7 @@ A corpus of focused shopping conversations that can be used for training convers
 
 [1] Marcus D. Collins, Eugene Agichtein, Oleg Rokhlenko and Shervin Malmasi. "Collecting High-quality Multi-modal Conversational Search Data for E-Commerce" 2024
 
-Please use the below code to cite our work if you found this dataset useful:
+If you find our corpus useful, please cite it with the BibTex below:
 
 ```
 @inproceedings{collins2024,
